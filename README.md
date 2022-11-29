@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Josephfallen
 - 👀 I’m interested in Pavlov
-- 🌱 I’m currently learning Nothing
-- 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me You don't
+- 🌱 I’m currently learning Typescript and refining my craft for SQL
 
 <!---
 Josephfallen/Josephfallen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
