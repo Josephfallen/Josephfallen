@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Josephfallen
 - 👀 I’m interested in Pavlov
 - 🌱 I’m currently learning Typescript and refining my craft in SQL
-- 💼 I’m currently working on a project called Hydrox and the Pav-RP backend
+- 💼 I’m currently working on a project called Hydrox 
 - 📞 You can contact me on discord --> https://discord.gg/D33NQAQDtR
 
 <!---
