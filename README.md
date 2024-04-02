@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Josephfallen
-- 🌱 I’m currently learning Typescript and refining my craft in SQL, Python, Json, and Javascript
+- 🌱 I’m currently learning Typescript
+- 📖 I currently know Python, JS, HTML, CSS, MySQL, JSON, and C#
 - 💼 I’m currently working with no one! 
 - 📞 You can contact me on discord --> https://discord.gg/D33NQAQDtR
 
