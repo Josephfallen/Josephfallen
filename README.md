@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Josephfallen
+- 👋 Hi, I’m Josephfallen
 - 🌱 I’m currently learning Memory Forensics
 
 ## 🔧 Technologies & Tools
