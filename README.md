@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @Josephfallen
 - 🌱 I’m currently learning Memory Forensics
-- 📖 I currently know Python, JS, HTML, CSS, MySQL, JSON, and C#
-- 💼 I’m currently working with no one! 
-- 📞 You can contact me on discord --> https://discord.gg/D33NQAQDtR
-  
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
