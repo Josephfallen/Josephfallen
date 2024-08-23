@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Josephfallen
-- 📗 I'm currently getting my certifications for security+
+- 📗 I'm currently getting my certifications for Security+ and Professional Software Developer Certification from IEEE
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
