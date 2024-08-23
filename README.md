@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Josephfallen
-- 🌱 I’m currently learning Memory Forensics
+- 📗 I'm currently getting my certifications for security+
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
