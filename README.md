@@ -17,5 +17,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephfallen&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="josephfallen" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=josephfallen&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="josephfallen" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=josephfallen&theme=vue-dark&show_icons=true&hide_border=true&count_private=false" alt="josephfallen" /></p>
 
