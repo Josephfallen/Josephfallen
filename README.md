@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C# or Python!**
 
-- 💬 My Favorite Phrase is "Aut inveniam viam aut faciam" - "I shall either find a way or make one"
+- 📗 My Favorite Phrase is "Aut inveniam viam aut faciam" - "I shall either find a way or make one"
 
 
 <h3 align="left">Languages and Tools:</h3>
