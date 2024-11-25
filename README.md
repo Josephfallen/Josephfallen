@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joseph</h1>
 <h3 align="center">A Full Stack Developer That Enjoys Making Mods</h3>
 
-- 🔭 I’m currently working on **SCP:SL Plugins**
+- 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **.NET Framework for SCP:SL**
+- 🌱 I’m currently learning **CompTIA Security +**
 
 - 👨‍💻 All of my projects are available at [josephfallen.xyz](https://josephfallen.xyz)
 
