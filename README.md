@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **.NET Framework for SCP:SL**
 
-- 👨‍💻 All of my projects are available at [josephfallen.xyz](josephfallen.xyz)
+- 👨‍💻 All of my projects are available at [josephfallen.xyz](https://josephfallen.xyz)
 
 - 💬 Ask me about **C# or Python!**
 
