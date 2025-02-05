@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [The DCBL](https://thedcbl.online/)
 
-- 🌱 I’m currently learning **.NET Framework for SCP:SL**
+- 🌱 I’m currently learning **.NET Framework**
 
 - 👨‍💻 All of my projects are available at [josephfallen.xyz](https://josephfallen.xyz)
 
