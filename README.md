@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C# or Python!**
 
-- 📨Email me **joseph.f@thedcbl.online**
+- 📨Email me about jobs or hiring me! **joseph.f@thedcbl.online**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
